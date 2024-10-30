@@ -34,7 +34,7 @@ Bienvenido al proyecto de análisis de tendencias de ventas, comportamiento de c
 
 * Creación de tablas y estructuración de la base de datos, facilitando el almacenamiento y acceso a los datos.  
     
-                [![][image1]](https://github.com/Yael-Parra/proyecto-da-j-modulo4-equipo/blob/main/image.png)
+                ![BBDD relación tablas](https://raw.githubusercontent.com/Yael-Parra/proyecto-da-j-modulo4-equipo/main/image.png)
 
 ### **1.4 Análisis**
 
