@@ -102,4 +102,14 @@ Bienvenido al proyecto de análisis de tendencias de ventas, comportamiento de c
 
 Este proyecto proporciona un marco sólido para entender y optimizar las operaciones de **Datatech Solutions** a través del análisis de datos. La implementación de visualizaciones efectivas en Power BI permite una mejor toma de decisiones estratégicas y operativas.
 
-¡Gracias por tu interés\! Si tienes preguntas, no dudes en contactarnos. 😊
+---
+
+## 📱 **Contacto**
+Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar el perfil de **LinkedIn**: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼 
+                                                                                                      [Paula Martinez](https://www.linkedin.com/in/yael-parra/)
+                                                                                                      [Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
+
+---
+
+**¡Gracias por explorar este proyecto!**  
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. 🙌
